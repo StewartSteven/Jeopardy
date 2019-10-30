@@ -1,0 +1,9 @@
+Category 1,Question 1,200,Name the fraction that is greater than 1/2. a. 1/4 b. 4/9 c. 5/8 d. 2/6,What is C;
+Category 1,Question 2,200,These are the only two planets in our solar system without moons... A: Mercury & Venus B: Venus & Mars C: Uranus & Neptune D: Neptune & Pluto,What is A;
+Category 1,Question 3,200,The part of the hardware of your computer that stores all your programs and files.,What is hard drive;
+Category 2,Question 4,200,Which number is NOT a composite number? a.9 b.19 c.27 d.30,What is B;
+Category 2,Question 5,200,This English chemist and physicist discovered hydrogen. A: Sir William Crookes B: Henry Cavendish C: Dorothy Hodgkin D: Bernard Shaw,What is B;
+Category 2,Question 6,200,A website usually maintained by an individual with regular entries.,What is a blog;
+Category 3,Question 7,200,Matthew had a jar of pennies. To count the pennies he stacked them in groups of 5. He counted a total of 870 pennies. How many stacks of pennies did Matthew make?,What is 174;
+Category 3,Question 8,200,This is the hardest naturally occurring substance... A: emerald B: tourmaline C: diamond D: corrundum,What is C;
+Category 3,Question 9,200,Receiving information from another person's computer over a network and saving it on your own hard drive.,What is download;
